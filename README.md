@@ -50,5 +50,5 @@ Used to automatically log activities via triggers and procedures.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Financial-Portfolio-Management-System.git
+   =https://github.com/KunalGupta28/Financial-Portfolio-Management.git
    cd Financial-Portfolio-Management-System
